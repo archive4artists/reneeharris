@@ -1,0 +1,9 @@
+body, td, p       {
+	font-size: 12px;
+	font-family: Arial, Helvetica, Geneva, sans-serif;
+	text-align: center;
+}
+.alignleft {
+	text-align: left;
+	border-color: #666;
+}
